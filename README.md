@@ -1,7 +1,7 @@
 # Helio-GTM-Strategy
 AI原生协作产品商业拆解：以产业经济学视角分析企业架构、算力博弈、结构化增长闭环分析。
 
-> 🌐 **Live Demo:** [https://billwarren3169-maker.github.io/Helio-GTM-Strategy/](https://billwarren3169-maker.github.io/Helio-GTM-Strategy/)
+> 🌐 **Live Demo:** [https://bsin-ai.github.io/Helio-GTM-Strategy/](https://bsin-ai.github.io/Helio-GTM-Strategy/)
 > *(纯原生前端构建，推荐在 PC 端浏览器获取最佳交互体验)*
 
 ## 1. 项目主旨 
